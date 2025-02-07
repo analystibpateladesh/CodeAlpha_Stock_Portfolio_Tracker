@@ -12,7 +12,7 @@ A simple stock portfolio tracking tool built with Python, allowing users to:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_Stock_Portfolio_Tracker.git
+   git clone https://github.com/analystibpateladesh/CodeAlpha_Stock_Portfolio_Tracker.git
 2. Navigate to the project folder: cd CodeAlpha_Stock_Portfolio_Tracker
 3. Install the required dependencies: 
    ```bash
