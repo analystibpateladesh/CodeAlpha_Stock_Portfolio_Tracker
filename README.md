@@ -19,7 +19,7 @@ A simple stock portfolio tracking tool built with Python, allowing users to:
     pip install yfinance
 4. Run the application: python stock_tracker.py
 
-##Sample Output
+## Sample Output
 
 Stock Portfolio Tracker
 1. Display Portfolio
@@ -30,7 +30,7 @@ Select an option (1-4): 1
 
 Your portfolio is empty.
 
-##Acknowledgments
+## Acknowledgments
 
 Thanks to CodeAlpha for this exciting project opportunity.
 
