@@ -14,7 +14,9 @@ A simple stock portfolio tracking tool built with Python, allowing users to:
    ```bash
    git clone https://github.com/yourusername/CodeAlpha_Stock_Portfolio_Tracker.git
 2. Navigate to the project folder: cd CodeAlpha_Stock_Portfolio_Tracker
-3. Install the required dependencies: pip install yfinance
+3. Install the required dependencies: 
+   ```bash
+    pip install yfinance
 4. Run the application: python stock_tracker.py
 
 ##Sample Output
@@ -29,6 +31,7 @@ Select an option (1-4): 1
 Your portfolio is empty.
 
 ##Acknowledgments
+
 Thanks to CodeAlpha for this exciting project opportunity.
 
 
