@@ -17,7 +17,7 @@ A simple stock portfolio tracking tool built with Python, allowing users to:
 3. Install the required dependencies: 
    ```bash
     pip install yfinance
-4. Run the application: python stock_tracker.py
+4. Run the application: python stock_portfolio.py
 
 ## Sample Output
 
